@@ -1,0 +1,162 @@
+2026-05-09 17:43:27,809 - INFO - =================================================
+2026-05-09 17:43:27,809 - INFO - STARTING TEST
+2026-05-09 17:43:27,809 - INFO - Reading configuration
+2026-05-09 17:43:27,810 - INFO - Browser from config: edge
+2026-05-09 17:43:27,810 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:43:28,001 - INFO - =================================================
+2026-05-09 17:43:28,001 - INFO - STARTING TEST
+2026-05-09 17:43:28,001 - INFO - Reading configuration
+2026-05-09 17:43:28,002 - INFO - Browser from config: edge
+2026-05-09 17:43:28,002 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:43:28,008 - INFO - =================================================
+2026-05-09 17:43:28,010 - INFO - STARTING TEST
+2026-05-09 17:43:28,010 - INFO - Reading configuration
+2026-05-09 17:43:28,011 - INFO - Browser from config: edge
+2026-05-09 17:43:28,011 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:43:28,044 - INFO - =================================================
+2026-05-09 17:43:28,044 - INFO - STARTING TEST
+2026-05-09 17:43:28,044 - INFO - Reading configuration
+2026-05-09 17:43:28,045 - INFO - Browser from config: edge
+2026-05-09 17:43:28,045 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:43:28,066 - INFO - =================================================
+2026-05-09 17:43:28,066 - INFO - STARTING TEST
+2026-05-09 17:43:28,066 - INFO - Reading configuration
+2026-05-09 17:43:28,067 - INFO - Browser from config: edge
+2026-05-09 17:43:28,067 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:43:28,078 - INFO - =================================================
+2026-05-09 17:43:28,078 - INFO - STARTING TEST
+2026-05-09 17:43:28,079 - INFO - Reading configuration
+2026-05-09 17:43:28,079 - INFO - Browser from config: edge
+2026-05-09 17:43:28,079 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:04,902 - INFO - =================================================
+2026-05-09 17:44:04,902 - INFO - STARTING TEST
+2026-05-09 17:44:04,902 - INFO - Reading configuration
+2026-05-09 17:44:04,902 - INFO - Browser from config: edge
+2026-05-09 17:44:04,903 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:05,069 - INFO - =================================================
+2026-05-09 17:44:05,069 - INFO - STARTING TEST
+2026-05-09 17:44:05,069 - INFO - Reading configuration
+2026-05-09 17:44:05,069 - INFO - Browser from config: edge
+2026-05-09 17:44:05,069 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:05,074 - INFO - =================================================
+2026-05-09 17:44:05,074 - INFO - STARTING TEST
+2026-05-09 17:44:05,074 - INFO - Reading configuration
+2026-05-09 17:44:05,074 - INFO - Browser from config: edge
+2026-05-09 17:44:05,075 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:05,079 - INFO - =================================================
+2026-05-09 17:44:05,079 - INFO - STARTING TEST
+2026-05-09 17:44:05,079 - INFO - Reading configuration
+2026-05-09 17:44:05,080 - INFO - Browser from config: edge
+2026-05-09 17:44:05,080 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:05,085 - INFO - =================================================
+2026-05-09 17:44:05,085 - INFO - STARTING TEST
+2026-05-09 17:44:05,085 - INFO - Reading configuration
+2026-05-09 17:44:05,086 - INFO - Browser from config: edge
+2026-05-09 17:44:05,086 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:05,095 - INFO - =================================================
+2026-05-09 17:44:05,095 - INFO - STARTING TEST
+2026-05-09 17:44:05,096 - INFO - Reading configuration
+2026-05-09 17:44:05,096 - INFO - Browser from config: edge
+2026-05-09 17:44:05,096 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:33,949 - INFO - =================================================
+2026-05-09 17:44:33,949 - INFO - STARTING TEST
+2026-05-09 17:44:33,949 - INFO - Reading configuration
+2026-05-09 17:44:33,950 - INFO - Browser from config: edge
+2026-05-09 17:44:33,950 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:34,130 - INFO - =================================================
+2026-05-09 17:44:34,130 - INFO - STARTING TEST
+2026-05-09 17:44:34,131 - INFO - Reading configuration
+2026-05-09 17:44:34,131 - INFO - Browser from config: edge
+2026-05-09 17:44:34,131 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:34,181 - INFO - =================================================
+2026-05-09 17:44:34,181 - INFO - STARTING TEST
+2026-05-09 17:44:34,181 - INFO - Reading configuration
+2026-05-09 17:44:34,182 - INFO - Browser from config: edge
+2026-05-09 17:44:34,182 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:34,193 - INFO - =================================================
+2026-05-09 17:44:34,194 - INFO - STARTING TEST
+2026-05-09 17:44:34,194 - INFO - Reading configuration
+2026-05-09 17:44:34,194 - INFO - Browser from config: edge
+2026-05-09 17:44:34,194 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:34,214 - INFO - =================================================
+2026-05-09 17:44:34,214 - INFO - STARTING TEST
+2026-05-09 17:44:34,214 - INFO - Reading configuration
+2026-05-09 17:44:34,215 - INFO - Browser from config: edge
+2026-05-09 17:44:34,215 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:44:34,241 - INFO - =================================================
+2026-05-09 17:44:34,241 - INFO - STARTING TEST
+2026-05-09 17:44:34,241 - INFO - Reading configuration
+2026-05-09 17:44:34,241 - INFO - Browser from config: edge
+2026-05-09 17:44:34,242 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:45:12,109 - INFO - =================================================
+2026-05-09 17:45:12,109 - INFO - STARTING TEST
+2026-05-09 17:45:12,109 - INFO - Reading configuration
+2026-05-09 17:45:12,109 - INFO - Browser from config: edge
+2026-05-09 17:45:12,110 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:45:14,684 - INFO - Opened browser: edge
+2026-05-09 17:45:14,958 - INFO - URL loaded: https://www.saucedemo.com/
+2026-05-09 17:45:14,959 - INFO - Login page opened
+2026-05-09 17:45:14,959 - INFO - Trying to login with data - standard_user, secret_sauce
+2026-05-09 17:45:14,959 - INFO - Trying to login with standard_user, secret_sauce
+2026-05-09 17:45:14,959 - INFO - Typing in  the element: ('id', 'user-name')
+2026-05-09 17:45:14,959 - INFO - Locating the element: ('id', 'user-name')
+2026-05-09 17:45:15,871 - INFO - Typing in  the element: ('id', 'password')
+2026-05-09 17:45:15,871 - INFO - Locating the element: ('id', 'password')
+2026-05-09 17:45:16,177 - INFO - Clicking the element: ('id', 'login-button')
+2026-05-09 17:45:16,177 - INFO - Locating the element: ('id', 'login-button')
+2026-05-09 17:45:16,474 - INFO - Checking logged in status
+2026-05-09 17:45:16,501 - INFO - Login Successful - Inventory page opened
+2026-05-09 17:45:16,628 - INFO - Screenshot saved at: reports/screenshots/login_test_20260509_174516.png
+2026-05-09 17:45:21,051 - INFO - Closing Browser: edge
+2026-05-09 17:45:21,052 - INFO - ENDING TEST
+2026-05-09 17:45:21,052 - INFO - ===========================================
+2026-05-09 17:45:21,053 - INFO - =================================================
+2026-05-09 17:45:21,053 - INFO - STARTING TEST
+2026-05-09 17:45:21,054 - INFO - Reading configuration
+2026-05-09 17:45:21,054 - INFO - Browser from config: edge
+2026-05-09 17:45:21,054 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:45:23,045 - INFO - Opened browser: edge
+2026-05-09 17:45:23,424 - INFO - URL loaded: https://www.saucedemo.com/
+2026-05-09 17:45:23,425 - INFO - Login page opened
+2026-05-09 17:45:23,425 - INFO - Trying to login with data - locked_out, secret_sauce
+2026-05-09 17:45:23,425 - INFO - Trying to login with locked_out, secret_sauce
+2026-05-09 17:45:23,425 - INFO - Typing in  the element: ('id', 'user-name')
+2026-05-09 17:45:23,425 - INFO - Locating the element: ('id', 'user-name')
+2026-05-09 17:45:24,164 - INFO - Typing in  the element: ('id', 'password')
+2026-05-09 17:45:24,164 - INFO - Locating the element: ('id', 'password')
+2026-05-09 17:45:24,416 - INFO - Clicking the element: ('id', 'login-button')
+2026-05-09 17:45:24,417 - INFO - Locating the element: ('id', 'login-button')
+2026-05-09 17:45:24,600 - INFO - Checking logged in status
+2026-05-09 17:45:24,608 - INFO - Trying to read error message
+2026-05-09 17:45:24,608 - INFO - Getting the element: ('tag name', 'h3')
+2026-05-09 17:45:24,608 - INFO - Locating the element: ('tag name', 'h3')
+2026-05-09 17:45:24,809 - ERROR - Login Failed - Inventory page NOT opened
+2026-05-09 17:45:24,900 - INFO - Screenshot saved at: reports/screenshots/login_test_20260509_174524.png
+2026-05-09 17:45:29,416 - INFO - Closing Browser: edge
+2026-05-09 17:45:29,416 - INFO - ENDING TEST
+2026-05-09 17:45:29,416 - INFO - ===========================================
+2026-05-09 17:45:29,417 - INFO - =================================================
+2026-05-09 17:45:29,417 - INFO - STARTING TEST
+2026-05-09 17:45:29,417 - INFO - Reading configuration
+2026-05-09 17:45:29,418 - INFO - Browser from config: edge
+2026-05-09 17:45:29,418 - INFO - Base from config: https://www.saucedemo.com/
+2026-05-09 17:45:31,600 - INFO - Opened browser: edge
+2026-05-09 17:45:32,364 - INFO - URL loaded: https://www.saucedemo.com/
+2026-05-09 17:45:32,365 - INFO - Login page opened
+2026-05-09 17:45:32,365 - INFO - Trying to login with data - wrong_user, wrong_pass
+2026-05-09 17:45:32,365 - INFO - Trying to login with wrong_user, wrong_pass
+2026-05-09 17:45:32,365 - INFO - Typing in  the element: ('id', 'user-name')
+2026-05-09 17:45:32,365 - INFO - Locating the element: ('id', 'user-name')
+2026-05-09 17:45:32,626 - INFO - Typing in  the element: ('id', 'password')
+2026-05-09 17:45:32,626 - INFO - Locating the element: ('id', 'password')
+2026-05-09 17:45:32,950 - INFO - Clicking the element: ('id', 'login-button')
+2026-05-09 17:45:32,951 - INFO - Locating the element: ('id', 'login-button')
+2026-05-09 17:45:33,397 - INFO - Checking logged in status
+2026-05-09 17:45:33,423 - INFO - Trying to read error message
+2026-05-09 17:45:33,423 - INFO - Getting the element: ('tag name', 'h3')
+2026-05-09 17:45:33,423 - INFO - Locating the element: ('tag name', 'h3')
+2026-05-09 17:45:33,584 - ERROR - Login Failed - Inventory page NOT opened
+2026-05-09 17:45:33,673 - INFO - Screenshot saved at: reports/screenshots/login_test_20260509_174533.png
+2026-05-09 17:45:38,015 - INFO - Closing Browser: edge
+2026-05-09 17:45:38,015 - INFO - ENDING TEST
+2026-05-09 17:45:38,015 - INFO - ===========================================

@@ -1,5 +1,7 @@
-from pages.home_page import HomePage
+import pytest
 
+from pages.home_page import HomePage
+from pages.product_listing_page import ProductListingPage
 
 def test_open_amazon(driver):
     # driver.find_element(By.CLASS_NAME, "a-button-text").click()
@@ -7,17 +9,70 @@ def test_open_amazon(driver):
     # assert "Amazon" in driver.title, 'Amazon not found in title'
     print("\nOpened Amazon Homepage. Title verified.")
 
-def test_search_product(driver):
+@pytest.mark.parametrize("searchproduct", [
+    ("wireless mouse"), ("shoes") ,("")
+
+])
+def test_search_product(driver, searchproduct):
     #Arrange
     homepage = HomePage(driver)
-
+    
     #Act
-    homepage.type_search_input()
+    homepage.type_search_input(searchproduct)
+    print(f"Searching product - {searchproduct}")
     homepage.click_search_button()
-
+    
     #Assert
     assert homepage.is_amazon_page_loaded() == True , 'Search results page did not loaded'
     print("\nSearch results page loaded successfully.")
+
+@pytest.mark.parametrize("searchproduct", [
+    ("wireless mouse"), ("shoes") ("")
+
+])
+
+def test_find_elements_amazon(driver, searchproduct):
+
+    homepage = HomePage(driver)
+
+    homepage.type_search_input(searchproduct)
+    print(f"Searching product - {searchproduct}")
+    homepage.click_search_button()
+
+    assert homepage.is_amazon_page_loaded() == True, 'Search results page did not loaded'
+    print("\nSearch results page loaded successfully.")
+    
+    productlistingpage = ProductListingPage(driver)
+
+    productlistingpage.find_product_title()
+    val = productlistingpage.all_products()
+
+    assert val, "No products found on Amazon search results!"
+
+
+
+@pytest.mark.parametrize(("searchproduct", "brandname"),
+[
+    ("wireless mouse", 'Logitech'),
+    ("shoes", "Nike")
+])
+
+def test_brand_filter(driver, searchproduct, brandname):
+    homepage = HomePage(driver)
+
+    homepage.type_search_input(searchproduct)
+
+    print(f"Searching product - {searchproduct}")
+    homepage.click_search_button()
+
+    assert homepage.is_amazon_page_loaded() == True, 'Search results page did not loaded'
+    print("\nSearch results page loaded successfully.")
+
+    productlistingpage = ProductListingPage(driver)
+
+    productlistingpage.select_brand_filter(brandname)
+
+    assert productlistingpage.check_product_titles_for_brand_filters(brandname), 'Brand filter did not apply'
 
 
 
